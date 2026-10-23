@@ -1,0 +1,6 @@
+{
+  "name": "Frauenzeit Brühl",
+  "description": "Praxis für Frauenheilkunde in Brühl. Mühlenstrasse 37, 50321 Brühl. Telefon: (02232) 43545. Ganzheitlich · Individuell · Stärkend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
